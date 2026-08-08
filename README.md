@@ -1,0 +1,2 @@
+# GiveawayTrail-App
+yes
